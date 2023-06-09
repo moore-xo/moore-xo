@@ -8,4 +8,4 @@
 moore-xo/moore-xo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-make it an image
+make it a website link
